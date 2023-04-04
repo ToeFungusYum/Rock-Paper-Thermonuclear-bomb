@@ -1,0 +1,58 @@
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.player {
+  text-align: center;
+  display: inline-block;
+}
+
+.btn {
+  margin-top: 50px;
+  display: box;
+  width: 20%;
+  border: solid;
+  background-color: #F9CBFF;
+  padding: 14px 28px;
+  font-size: 16px;
+  text-align: center;
+  color: #FF5EFA;
+}
+
+body {
+  background-color: #6F00B0;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Roboto Mono';
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #DCBDFF;
+}
+
+p {
+  font-size: 2rem;
+  color: #C2BDFF;
+  font-family: 'Roboto Mono';
+}
+
+img1 {
+  width: 40%;
+}
+
+img2 {
+  width: 40%;
+}
+
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Roboto Mono';
+
+}
